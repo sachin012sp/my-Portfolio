@@ -28,4 +28,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ![portfolio1](https://user-images.githubusercontent.com/51187784/218829374-ccd41665-91c5-4c21-b74a-f95d38d29883.png)
 
 ### Live Demo 
-lidyaboshra.github.io/my-Portfolio/
+https://lidyaboshra.github.io/my-Portfolio/
