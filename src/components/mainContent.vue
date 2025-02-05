@@ -3,11 +3,11 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-12">
-          <h1>Lidya Boshra</h1>
+          <h1>Sachin Sonawane</h1>
         </div>
 
         <div class="col-sm-12">
-          <h4>I'm a <span>Developer </span></h4>
+          <h4>I'm a <span>Web Developer </span></h4>
         </div>
       </div>
     </div>
