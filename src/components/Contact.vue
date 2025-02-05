@@ -22,7 +22,7 @@
             <form
               class="row g-3 needs-validation"
               validate
-              action="mailto:lidyaboshra15@gmail.com"
+              action="mailto:spweb012@gmail.com"
               method="post"
               name="EmailForm"
               enctype="text/plain"
@@ -92,7 +92,7 @@
                   ></span>
                   <div class="media-body info-details">
                     <h6 class="info-type">Name</h6>
-                    <span class="info-value">Lidya Boshra</span>
+                    <span class="info-value">Sachin sonawane</span>
                   </div>
                 </div>
               </li>
@@ -110,7 +110,7 @@
                   ></span>
                   <div class="media-body info-details">
                     <h6 class="info-type">Location</h6>
-                    <span class="info-value">Egypt, Cairo</span>
+                    <span class="info-value">Mumbai , India</span>
                   </div>
                 </div>
               </li>
@@ -129,7 +129,7 @@
                   <div class="media-body info-details">
                     <h6 class="info-type">Call Me</h6>
                     <span class="info-value"
-                      ><a href="tel:01275036476">01275036476</a></span
+                      ><a href="tel:7507780350">+91-7507780350</a></span
                     >
                   </div>
                 </div>
@@ -149,8 +149,8 @@
                   <div class="media-body info-details">
                     <h6 class="info-type">Email Me</h6>
                     <span class="info-value"
-                      ><a href="mailto:lidyaboshra15@gmail.com"
-                        >lidyaboshra15@gmail.com</a
+                      ><a href="mailto:spweb012gmail.com"
+                        >spweb012@gmail.com.com</a
                       ></span
                     >
                   </div>
